@@ -7,9 +7,9 @@
         "age": 41,
         "Country": "Mongolia",
         "Password": "password123#",
-        "point": 100,
         "type": "teacher",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -22,7 +22,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -35,7 +36,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -48,7 +50,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -61,7 +64,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -74,7 +78,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -87,7 +92,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -100,7 +106,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -113,7 +120,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -126,7 +134,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -139,7 +148,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -147,12 +157,13 @@
         "First_name": "Taito mua",
         "Last_name": "Lawakele",
         "email": "nest23271018@nhs.edu.mn",
-        "age": 17,
+        "age": 18,
         "Country": "Mongolia",
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -165,7 +176,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -178,7 +190,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -191,7 +204,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -204,7 +218,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -217,7 +232,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -230,7 +246,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -243,7 +260,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -256,7 +274,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "female"
     },
 
     {
@@ -269,7 +288,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -282,7 +302,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -295,7 +316,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -308,7 +330,8 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     },
 
     {
@@ -321,6 +344,7 @@
         "Password": "password123#",
         "point": 100,
         "type": "student",
-        "created_at": "Idk"
+        "created_at": "Idk",
+        "gender": "male"
     }
 ]

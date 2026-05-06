@@ -42,21 +42,21 @@ export default function Weather() {
                             <div class="  flex items-center flex-col">
                                 <p class="text-sm text-blue-300 font-bold">6:00 AM</p>
                                 <img src="https://cdn-icons-png.flaticon.com/128/14440/14440334.png" class="w-15 h-15"></img>
-                                <p class="text-xl text-white font-bold">25*</p>
+                                <p className="text-xl text-white font-bold">25*</p>
                             </div>
                             <div class="h-full w-0.5 bg-blue-200 ml-7"></div>
 
-                            <div class=" flex items-center flex-col ml-7">
-                                <p class="text-sm text-blue-300 font-bold">9:00 AM</p>
+                            <div className=" flex items-center flex-col ml-7">
+                                <p className="text-sm text-blue-300 font-bold">9:00 AM</p>
                                 <img src="https://cdn-icons-png.flaticon.com/128/1163/1163661.png" class="w-15 h-15"></img>
-                                <p class="text-xl text-white font-bold">28*</p>
+                                <p className="text-xl text-white font-bold">28*</p>
                             </div>
                             <div class="h-full w-0.5 bg-blue-200 ml-7"></div>
 
-                            <div class=" flex items-center flex-col ml-7">
-                                <p class="text-sm text-blue-300 font-bold">12:00 PM</p>
-                                <img src="https://cdn-icons-png.flaticon.com/128/4814/4814268.png" class="w-15 h-15"></img>
-                                <p class="text-xl text-white font-bold">33*</p>
+                            <div className=" flex items-center flex-col ml-7">
+                                <p className="text-sm text-blue-300 font-bold">12:00 PM</p>
+                                <img src="https://cdn-icons-png.flaticon.com/128/4814/4814268.png" className="w-15 h-15"></img>
+                                <p className="text-xl text-white font-bold">33*</p>
                             </div>
                             <div class="h-full w-0.5 bg-blue-200 ml-7"></div>
 
